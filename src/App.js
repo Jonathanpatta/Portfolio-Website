@@ -1,4 +1,4 @@
-import MyComponent from './MyComponent';
+import MyComponent from './Portfolio';
 import { useEffect } from 'react';
 
 function App() {
